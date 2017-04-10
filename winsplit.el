@@ -6,6 +6,10 @@
 ;; Keywords: convenience
 ;; URL: https://github.com/davep/winsplit.el
 
+;; winsplit.el is free software distributed under the terms of the GNU
+;; General Public Licence, version 2 or (at your option) any later version.
+;; For details see the file COPYING.
+
 ;;; Commentary:
 ;;
 ;; winsplit.el provides some simple commands for creating new windows in the

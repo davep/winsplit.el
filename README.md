@@ -6,7 +6,8 @@
 way I like. The commands are designed to be assigned to obvious key
 bindings.
 
-I like to use `use-package` and this is how I use this package:
+I like to use [`use-package`](https://github.com/jwiegley/use-package) and
+this is how I use this package:
 
 ```elisp
 (use-package winsplit
